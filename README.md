@@ -1,5 +1,4 @@
-# Threads-and-Multithreading-Lab
-Laboratory activity on Python threads
+# Threads and Multithreading Laboratory
 
 ## Student Information
 - Name: Marie June Lomo
